@@ -27,7 +27,9 @@ To examine and alter the map documents using `ArcMap` , open the relevant MXD fi
 
 ## Data Sources 
 [US Census Bureau American Factfinder](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t)
+
 [US Census Bureau TIGER/Line Shapefiles](https://www.census.gov/geo/maps-data/data/tiger-line.html)
+
 [City of Boston Crime Data](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
 
 
