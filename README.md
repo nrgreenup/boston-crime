@@ -6,5 +6,6 @@ Description: This project contains analyses of Boston crime rates R and the ArcG
 You will need the following software and R packages installed to run code files and reproduce analyses.
 
 Necessary software: **R** , **ArcGIS**
+
 Necessary R packages: `broom` , `dplyr` , `ggplot2` , `httpuv` , `plotly` , `readxl` , `scales` 
 
