@@ -20,6 +20,9 @@ Files names begin with a prefix according to their function:
       table-    : Table containing linear regression parameters
   
 ## Installation
-To begin, download all files into a single folder. When using R, set this folder as the working directory using `setwd`. When using ArcMap, establish a [folder connection](http://desktop.arcgis.com/en/arcmap/10.3/map/working-with-arcmap/using-folder-connections.htm). 
+To begin, download all files into a single folder. When using `R`, set this folder as the working directory using `setwd`. When using `ArcMap`, establish a [folder connection](http://desktop.arcgis.com/en/arcmap/10.3/map/working-with-arcmap/using-folder-connections.htm) to this folder. 
 
+`R` script files are executable once a working directory to the folder containing data files is set. Running these scripts will reproduce all data cleaning procedures, plots, and regression analyses. 
+
+To examine and alter the map documents using `ArcMap` , open the relevant MXD file. When using ArcMap, ensure that all of the files contained in the /shapefile/ subdirectory have been downloaded into the folder that you establish a folder connection to. For further details, review the README file included in the /shapefile/ subdirectory. 
 
