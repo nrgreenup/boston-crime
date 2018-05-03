@@ -32,4 +32,6 @@ To examine and alter the map documents using `ArcMap` , open the relevant MXD fi
 
 [City of Boston Crime Data](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
 
+## License
+See LICENSE.md for licensing details for this project. 
 
