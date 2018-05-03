@@ -4,4 +4,11 @@ Description: These are the files necessary for manipulating data and creating ma
 
 ## File Descriptions
 There are four sets of files included in this folder:
+
+      tl_2017_25_trct: raw relevant mapping files of Boston census tracts without additional joined data
+      boston_crime_by_tracts: relevant mapping files for Boston census tracts with the count of crimes per tract
+      boston-crime_with_demographics: relevant mapping files for Boston census tracts with the count of crimes and demographics by tract
+      boston-crime_with_demographics-pop_greater0: relevant mapping files for Boston census tracts with the count of crimes and    
+         demographics by tract, only including tracts with residents 
+        
    
