@@ -80,6 +80,7 @@ write.csv(tidy_crime_simple_lm, "table-tidy_crime_simple_lm.csv")
 crime_multiple_lm <- lm(crime_norm ~ Median_income + Percent_White, data = crime_filtered)
 summary(crime_multiple_lm)
 tidy_crime_mult_lm <- tidy(crime_multiple_lm)
+tidy_crime_mult_lm
 write.csv(tidy_crime_mult_lm, "table-tidy_crime_multiple_lm.csv")
 
 ### 3d scatterplot of multiple linear model
